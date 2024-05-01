@@ -90,6 +90,10 @@
     transition: transform 0.3s;
   }
   
+  #image-modal {
+    display: none; 
+  }
+  
   .modal {
     display: none;
     position: fixed;

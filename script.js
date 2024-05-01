@@ -91,7 +91,7 @@ function addModalListeners() {
 }
 
 window.addEventListener("load", () => {
-  closeModal();
+ 
 });
 
 formEl.addEventListener("submit", (event) => {
